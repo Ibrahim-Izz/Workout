@@ -15,7 +15,7 @@
 | Shoulder Press             | Shoulder Press Machine      | 3    | 8-12  | 90 sec | Anterior Deltoid (40%), Lateral Deltoid (35%), Triceps Brachii (25%)             |
 | Lateral Raise              | Dumbbell or Cable           | 3    | 10-15 | 60 sec | Lateral Deltoid (90%), Anterior Deltoid (10%)                                  |
 | Overhead Triceps Extension | Cable Crossover Machine     | 3    | 10-15 | 60 sec | Triceps Long Head (80%), Lateral Head (10%), Medial Head (10%)                 |
-| Bar Skullcrusher           | Weight Bench + Dumbbell Set | 3    | 10-12 | 60 sec | Lateral Head (40%), Long Head (30%), Medial Head (30%)                         |
+| Bar Skullcrusher (Alternative)           | Weight Bench + Dumbbell Set | 3    | 10-12 | 60 sec | Lateral Head (40%), Long Head (30%), Medial Head (30%)                         |
 | Cable Face Pull            | Cable Crossover Machine     | 2    | 12-15 | 60 sec | Posterior Deltoid (50%), Trapezius (30%), Rhomboids (20%)                      |
 
 ## Day 2: Lower Body (Quad Focus)
@@ -37,7 +37,7 @@
 | Wide-Grip Pulldown       | Lat Pulldown Machine                       | 3    | 10-12 | 90 sec | Latissimus Dorsi (70%), Biceps Brachii (20%), Posterior Deltoid (10%)                  |
 | Cable Row                | Seated Row Machine                         | 3    | 10-12 | 90 sec | Latissimus Dorsi (50%), Trapezius (20%), Rhomboids (20%), Biceps Brachii (10%)         |
 | Face Away Bayesian Curl  | Cable Crossover Machine                    | 3    | 10-12 | 60 sec | Biceps Brachii (80%), Brachialis (20%)                                               |
-| Dumbbell Preacher Curl   | Weight Bench + Dumbbell Set                | 3    | 10-15 | 60 sec | Biceps Brachii (80%), Brachialis (20%)                                               |
+| Dumbbell Preacher Curl (Alternative)   | Weight Bench + Dumbbell Set                | 3    | 10-15 | 60 sec | Biceps Brachii (80%), Brachialis (20%)                                               |
 | Shrugs                   | Trap (Shrug) Machine                       | 3    | 12-15 | 60 sec | Upper Trapezius (100%)                                                               |
 
 ## Day 4: Lower Body (Posterior Chain Focus)
