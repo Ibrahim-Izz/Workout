@@ -23,6 +23,8 @@
 | Exercise              | Equipment                     | Sets | Reps           | Rest   | Muscles (with % contribution)                                   |
 |-----------------------|-------------------------------|------|----------------|--------|-------------------------------------------------------------------|
 | Lever Squat           | Lever Squat Machine           | 3    | 8-10           | 120 sec| Quadriceps (70%), Glutes (20%), Hamstrings (10%)                  |
+| Barbell Back Squat (Alternative)| Barbell, Squat Rack                        | 3    | 8-10   | 120 sec | Quadriceps (65%), Glutes (25%), Hamstrings (10%)                          |
+| Hack Squat (Alternative)        | Hack Squat Machine                         | 3    | 8-10   | 120 sec | Quadriceps (75%), Glutes (15%), Hamstrings (10%)                          |
 | Leg Extensions        | Leg Extension Machine         | 3    | 12-15          | 90 sec | Quadriceps (100%)                                                |
 | Seated Leg Curl       | Seated Leg Curl Machine       | 3    | 10-15          | 90 sec | Hamstrings (100%)                                                |
 | Seated Calf Extension | Seated Calf Extension Machine | 3    | 12-15          | 60 sec | Soleus (70%), Gastrocnemius (30%)                                  |
